@@ -1,0 +1,2 @@
+# 00001_LoLForm
+LoLのインゲーム情報リアルタイム表示PowerShell
